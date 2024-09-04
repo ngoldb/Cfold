@@ -3,3 +3,5 @@ src/alphafold/data/__pycache__
 src/alphafold/data/tools/__pycache__
 src/alphafold/model/__pycache__
 src/alphafold/model/tf/__pycache__
+params10000.npy
+uniclust30_*
